@@ -164,3 +164,12 @@ To use Enterprise Manager Express (EM) from remote clients, connect to the datab
       Please let me know if something is unclear or missing!
 
       Matthias
+
+
+
+
+
+
+
+
+https://192.168.0.56:5500/em/shell#/dbhome/show_regions
